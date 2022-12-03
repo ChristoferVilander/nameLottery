@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQWt48bgZLudt0vvmz3ZbqUQGIIA/Q6kre5vJV/LfbNBHJvLTsJLM94IXzIB14OjD0RAmu9eOq+AzMMHJJY3ZA==",
+  "success": true,
+  "projectFilePath": "/Users/christofervilander/Projects/name-lottery/name-lottery/name-lottery.csproj",
+  "expectedPackageFiles": [
+    "/Users/christofervilander/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/christofervilander/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512",
+    "/Users/christofervilander/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
